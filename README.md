@@ -30,6 +30,9 @@ To run this project locally:
 
 Contributions are welcome! If you have suggestions to improve this application, feel free to fork the repository and submit a pull request.
 
+**Snapshot**
+![Screenshot 2024-09-15 124817](https://github.com/user-attachments/assets/464ab7a8-227c-4aff-8433-67cd13f5f99d)
+
 
 **Contact:**
 
